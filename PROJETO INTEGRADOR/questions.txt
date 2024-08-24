@@ -1,0 +1,5 @@
+Qual é a capital da França?|Paris,Londres,Roma,Berlim|Paris
+Quem escreveu "Dom Quixote"?|Miguel de Cervantes,William Shakespeare,Jorge Amado,Gabriel García Márquez|Miguel de Cervantes
+Qual é o maior oceano do mundo?|Oceano Pacífico,Oceano Atlântico,Oceano Índico,Oceano Ártico|Oceano Pacífico
+Quem pintou a Mona Lisa?|Leonardo da Vinci,Vincent van Gogh,Pablo Picasso,Claude Monet|Leonardo da Vinci
+Qual é a fórmula química da água?|H2O,CO2,O2,N2|H2O

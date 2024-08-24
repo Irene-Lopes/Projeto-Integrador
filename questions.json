@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Quem pintou a Mona Lisa?",
+        "answers": [
+            "Leonardo da Vinci",
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Claude Monet"
+        ],
+        "correct": "Leonardo da Vinci"
+    },
+    {
+        "question": "Qual é a capital da França?",
+        "answers": [
+            "Paris",
+            "Londres",
+            "Roma",
+            "Berlim"
+        ],
+        "correct": "Paris"
+    },
+    {
+        "question": "Quem escreveu \"Dom Quixote\"?",
+        "answers": [
+            "Miguel de Cervantes",
+            "William Shakespeare",
+            "Jorge Amado",
+            "Gabriel García Márquez"
+        ],
+        "correct": "Miguel de Cervantes"
+    },
+    {
+        "question": "Qual é o maior oceano do mundo?",
+        "answers": [
+            "Oceano Pacífico",
+            "Oceano Atlântico",
+            "Oceano Índico",
+            "Oceano Ártico"
+        ],
+        "correct": "Oceano Pacífico"
+    },
+    {
+        "question": "Qual é a fórmula química da água?",
+        "answers": [
+            "H2O",
+            "CO2",
+            "O2",
+            "N2"
+        ],
+        "correct": "H2O"
+    }
+]
